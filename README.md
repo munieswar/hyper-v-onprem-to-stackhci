@@ -14,7 +14,9 @@
 
 # Notes
 
+Develop a tool to replace:
 
+![](i1.png)
 
 
 ## Goals
