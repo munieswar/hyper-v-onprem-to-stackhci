@@ -1,6 +1,19 @@
 
 # Introduction
 
+## Next Steps
+
+- List of **migration tools** and a simple link
+  - A list of ones that support current scenarios
+  - A list of tools missing
+    - Web Logic
+    - DFS
+    - AVS, Ryan
+    - Kubernetes to AKS
+
+
+# Notes
+
 ## Goals
 
 - Get hardware footprint of on premises hyper V-based VM's
@@ -17,6 +30,12 @@ Can we help migrate from on prem web logic clusters to:
 - AKS
 - Azure Stack HCI AKS (why here)
     - Data Sovereignty laws
+
+## Work Areas
+
+- Azure Migrate has feature supporting to AVS Team
+- What are 
+Tools is a big landscape. 
 
 ## Web Logic
 Java EE Support: WebLogic fully supports Java Enterprise Edition (Java EE), which is crucial for developing and deploying robust, large-scale applications.
